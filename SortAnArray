@@ -1,0 +1,8 @@
+// A small program to sort an array list 
+
+def arraySort(nums):
+    numb = sorted(nums)
+    return numb
+
+a=[1,32,1,312,41,41,24,15]
+print(arraySort(a))
